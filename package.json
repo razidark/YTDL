@@ -1,0 +1,104 @@
+{
+  "name": "rzl-ytdl",
+  "version": "1.0.0",
+  "description": "YTDL — Premium YouTube Downloader (Portable Desktop App)",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "node dist/server.js",
+    "electron:dev": "npx electron .",
+    "electron:build": "npm run build && npx electron-builder --win portable",
+    "electron:build:dir": "npm run build && npx electron-builder --win --dir",
+    "build": "tsc",
+    "test": "jest --forceExit",
+    "test:watch": "jest --watch",
+    "test:cov": "jest --coverage",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "youtube",
+    "downloader",
+    "yt-dlp",
+    "video",
+    "electron"
+  ],
+  "author": "RZL",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "express-rate-limit": "^7.1.0",
+    "helmet": "^7.0.0",
+    "winston": "^3.9.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/compression": "^1.7.0",
+    "@types/cors": "^2.8.0",
+    "@types/express": "^4.17.0",
+    "@types/express-rate-limit": "^5.1.0",
+    "@types/helmet": "^4.0.0",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^20.0.0",
+    "electron": "^42.2.0",
+    "electron-builder": "^26.15.3",
+    "eslint": "^9.39.4",
+    "eslint-config-prettier": "^9.0.0",
+    "globals": "^15.14.0",
+    "husky": "^8.0.0",
+    "jest": "^29.0.0",
+    "jest-extended": "^3.0.0",
+    "lint-staged": "^14.0.0",
+    "prettier": "^3.0.0",
+    "supertest": "^6.0.0",
+    "ts-jest": "^29.4.11",
+    "tsx": "^4.22.4",
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.24.1"
+  },
+  "build": {
+    "appId": "com.rzl.ytdl",
+    "productName": "YTDL",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "dist/",
+      "public/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "bin/yt-dlp.exe",
+        "to": "bin/yt-dlp.exe"
+      },
+      {
+        "from": "bin/ffmpeg.exe",
+        "to": "bin/ffmpeg.exe"
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "public/icon.png"
+    },
+    "portable": {
+      "artifactName": "YTDL-Portable.exe"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{ts,js}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
+  }
+}

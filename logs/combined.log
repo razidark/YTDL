@@ -1,0 +1,121 @@
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.644Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.667Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Error fetching info for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.681Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.682Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Download error for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.695Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.696Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.787Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.799Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Error fetching info for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.813Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.815Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Download error for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.833Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.834Z"}
+{"level":"warn","message":"ffmpeg not found in PATH or local bin. Attempting auto-download...","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.795Z"}
+{"level":"info","message":"Downloading ffmpeg from: https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v4.4.1/ffmpeg-4.4.1-win-64.zip","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.798Z"}
+{"level":"warn","message":"yt-dlp not found in PATH or local bin. Attempting auto-download...","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.822Z"}
+{"level":"info","message":"Downloading yt-dlp from: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.823Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.834Z"}
+{"level":"info","message":"yt-dlp downloaded successfully!","service":"ytdl-server","timestamp":"2026-06-17T19:06:25.463Z"}
+{"level":"info","message":"Waiting for file stream lock release...","service":"ytdl-server","timestamp":"2026-06-17T19:06:25.781Z"}
+{"level":"info","message":"Extracting ffmpeg...","service":"ytdl-server","timestamp":"2026-06-17T19:06:27.295Z"}
+{"level":"info","message":"ffmpeg downloaded and extracted successfully!","service":"ytdl-server","timestamp":"2026-06-17T19:06:29.012Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:06:29.021Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:08:52.841Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:08:53.433Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:08:53.436Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:15:41.226Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:15:42.374Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:15:42.377Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\src\\temp\\ytdl_1781723767821_6426cc7e62c663c203225f42c396af05.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:16:15.102Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:16:15.106Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:20:53.685Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:20:53.697Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:20:53.701Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781724086770_00fd4b6041409b1072f873e139b49658.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:21:34.295Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:21:34.298Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:22:53.768Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:22:54.910Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:22:54.913Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:24:15.544Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:24:16.835Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:24:16.838Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781724383799_6bd3c00ae573c806ff8a3ed62cef7eaa.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:26:32.265Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:26:32.267Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:52:40.110Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781725952774_a379cff0a492c6e28149a56d2248a407.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:52:40.205Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781726020560_49758e97f54f2aabb3110c9a644409a1.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:53:48.745Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:53:48.750Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:55:19.272Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T19:55:20.331Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T19:55:20.333Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781726347974_d613e0e9d13c47f08f58af42401c846d.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T19:59:18.454Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T19:59:18.457Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781726676031_a7c4d9a7ff1115b5c2f0c6241e0d715e.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T20:04:43.092Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T20:04:43.096Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"ytdl-server","timestamp":"2026-06-17T20:06:32.963Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781726943655_0b1301a997a49d70b5814e2ace999e88.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T20:09:11.243Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T20:09:11.245Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T20:09:57.579Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T20:09:58.592Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T20:09:58.595Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781727198639_9ed11d00d1ed1bd1103c947e83d5d295.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T20:13:26.394Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T20:13:26.396Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781728509751_baeb6d42e731f6e160c717e0181ce0c7.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T20:35:19.159Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T20:35:19.164Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781733043052_69abb6f034269108a0a170dd6225fc1b.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T21:50:51.870Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T21:50:51.904Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T21:54:02.211Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T21:54:03.222Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T21:54:03.225Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781733326502_bd3fce54246137fbd1f9282caf88b7b7.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T21:55:33.236Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T21:55:33.238Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:13:16.460Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:13:16.564Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T22:13:16.568Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781734425960_c35cba203f5a226de9069f69aa7719d9.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:13:53.403Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:13:53.405Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735462135_36d67f444fa66acc69c7db53e8977d6b.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:31:20.042Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:31:20.045Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735570845_083523daa53710243653cbcfa730b41d.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:32:57.379Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:32:57.380Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:33:33.312Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:33:34.500Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T22:33:34.502Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:34:54.563Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735685599_97f4a07679d02b7b63f1f9a3ff00d242.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:34:54.590Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735737516_bb65133fc239e85df48b3666e07df95d.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:35:45.628Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:35:45.630Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:37:28.416Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-17T22:37:29.488Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-17T22:37:29.491Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735871670_88de5e4c12fcc0bd5cb52ecbc87fa4a5.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:37:59.388Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:37:59.391Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781735999518_7a0d0e18e4940ff4daccd54c31a4eeef.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-17T22:40:07.268Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-17T22:40:07.278Z"}
+{"level":"info","message":"ffmpeg is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-19T20:39:27.339Z"}
+{"level":"info","message":"yt-dlp is ready (available in PATH or bin/).","service":"ytdl-server","timestamp":"2026-06-19T20:39:28.061Z"}
+{"level":"info","message":"\n  ⚡ YTDL Server running at http://localhost:3000\n","service":"ytdl-server","timestamp":"2026-06-19T20:39:28.065Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781901595315_df79fddcda9b7f92c3b9cb46c9ba1330.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-19T20:41:08.257Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-19T20:41:08.259Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1781904137129_5bdb05e308e4715d56bb8cf41df75578.mp3.mp3","service":"ytdl-server","timestamp":"2026-06-19T21:22:35.720Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-06-19T21:22:35.726Z"}
+{"level":"info","message":"Cleaned up temp file: G:\\RZL APPS\\YTDL\\temp\\ytdl_1785907367483_623030ed402f851d4efddaedd489d7c1.mp3.mp3","service":"ytdl-server","timestamp":"2026-08-05T05:22:54.783Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-08-05T05:22:54.786Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:34:38.011Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:34:38.465Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-09-21T04:34:38.466Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:35:22.449Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:35:22.856Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-09-21T04:35:22.857Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:54:10.373Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:54:10.782Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-09-21T04:54:10.784Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-17T22:25:07.290Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-17T22:25:07.687Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-11-17T22:25:07.689Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-21T04:54:42.125Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-21T04:54:42.528Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-11-21T04:54:42.529Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-23T02:55:32.942Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-23T02:55:33.288Z"}
+{"level":"info","message":"Client disconnected, terminated yt-dlp process","service":"ytdl-server","timestamp":"2026-11-23T02:55:33.290Z"}

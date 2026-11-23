@@ -1,0 +1,25 @@
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.644Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.667Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Error fetching info for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.681Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.682Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Download error for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.695Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:30.696Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.787Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.799Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Error fetching info for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.813Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.815Z"}
+{"error":"Error: spawn yt-dlp ENOENT\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)\n    at onErrorNT (node:internal/child_process:484:16)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","level":"error","message":"Download error for URL https://www.youtube.com/watch?v=dQw4w9WgXcQ: spawn yt-dlp ENOENT","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.833Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T08:08:43.834Z"}
+{"level":"error","message":"yt-dlp error: yt-dlp exited with code -4058: ","service":"ytdl-server","timestamp":"2026-06-17T19:06:23.834Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:34:38.011Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:34:38.465Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:35:22.449Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:35:22.856Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-09-21T04:54:10.373Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-09-21T04:54:10.782Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-17T22:25:07.290Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-17T22:25:07.687Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-21T04:54:42.125Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-21T04:54:42.528Z"}
+{"level":"error","message":"yt-dlp stderr: ERROR: unable to download video data: HTTP Error 403: Forbidden\n","service":"ytdl-server","timestamp":"2026-11-23T02:55:32.942Z"}
+{"level":"error","message":"yt-dlp exited with code 1","service":"ytdl-server","timestamp":"2026-11-23T02:55:33.288Z"}
